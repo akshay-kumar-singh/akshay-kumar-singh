@@ -32,14 +32,13 @@
 </p>
 
 <p align="center">
-
  <a href="https://www.linkedin.com/in/akshay-singh-39531324b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akshay"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akshay" height="28" width="130"/>
  </a>
- <a href="https://portfolio-next-js-blond.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Akshay's Portfolio"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.akshay-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Akshay's Portfolio" height="28" width="130"/>
  </a>
-
 </p>
 <br />
 
@@ -89,3 +88,4 @@
 </div>
 
 <br/>
+
