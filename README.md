@@ -36,15 +36,15 @@
  <a href="https://www.linkedin.com/in/akshay-singh-39531324b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akshay"/>
  </a>
- <!-- <a href="https://dev.to/Akshay" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Akshay" />
- </a> -->
+ <a href="https://portfolio-next-js-blond.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Akshay's Portfolio"/>
+ </a>
 
 </p>
 <br />
 
 <!-- About Section -->
- # About me
+# About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -89,7 +89,3 @@
 </div>
 
 <br/>
-
-
-
-
