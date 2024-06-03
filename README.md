@@ -37,7 +37,7 @@
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://portfolio-next-js-blond.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Akshay's Portfolio" height="28" width="130"/>
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo" alt="Akshay's Portfolio" height="28" width="130"/>
  </a>
 </p>
 <br />
